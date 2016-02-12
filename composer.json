@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/redactor",
+	"name":        "kodicms_kohana/redactor",
 	"type":        "kodicms-plugin",
 	"description": "The official KodiCMS redactor plugin",
 	"homepage":    "http://www.kodicms.ru/",
